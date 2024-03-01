@@ -30,8 +30,8 @@ registrationForm = this.fb.group({
   callApi(){
     this.registrationForm.patchValue({
   
-      userName: 'lund' ,
-      email: 'lund@laurdwa.com',
+      userName: 'abcd' ,
+      email: 'abcd@laurdwa.com',
       password: '1234',
       gender:'male',
       confirmPassword: '1234'
